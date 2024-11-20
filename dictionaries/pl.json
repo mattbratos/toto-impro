@@ -1,0 +1,125 @@
+{
+  "server-component": {
+    "welcome": "Siema eniu"
+  },
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  },
+  "navigation": {
+    "home": "Home",
+    "experience": "Nasze doświadczenie",
+    "team": "Poznaj Nas",
+    "about": "Czym jest impro?",
+    "videos": "Zobacz nas",
+    "gallery": "Galeria",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "experience": {
+    "title": "Nasze doświadczenie",
+    "stats": {
+      "shows": "Spektakli",
+      "stages": "Scen",
+      "cities": "Miast",
+      "countries": "Kraje"
+    }
+  },
+  "hero": {
+    "title": "Witaj w ToTo Impro!",
+    "description": "Gdzie na Waszych oczach stworzymy piękny absurdalny świat do sugestii które Nam dacie! Rozśmieszać będą Was zawodowi aktorzy-wokaliści w akompaniamencie żywej muzyki!! Naładuj się z Nami pozytywną energią i przeżyj coś niesamowitego!",
+    "buttons": {
+      "tickets": "Zarezerwuj bilet",
+      "booking": "Booking"
+    }
+  },
+  "team": {
+    "title": "Poznaj Nasz Zespół",
+    "description": "Jesteśmy grupą profesjonalnych aktorów i muzyków, którzy kochają improwizację i tworzenie wyjątkowych doświadczeń.",
+    "members": [
+      {
+        "name": "Hubert Sycz",
+        "description": "Absolwent Szkoły Filmowej w Łodzi. Twarz największych kampanii reklamowych w Polsce – obecnie marki Play. Multi-instrumentalista z wykształceniem muzycznym.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/Zrzut%20ekranu%202024-11-15%20o%2021.10.02-Y9w7qjqGHxUkJJDVKntrqqpONZXwlw.png"
+      },
+      {
+        "name": "Marcin Lipski",
+        "description": "Absolwent Szkoły Filmowej w Łodzi. Od kilkunastu lat występuje jako artysta uliczny na festiwalach oraz w wielu miastach w Polsce. Improwizacją zajmuje się od 5 lat. Twórca grupy filmowej N.O.C.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/6e55db0a-206b-4904-b6eb-b97b558d68eb-PZ00aG24hIXsuts1jN3zAc474HSwlg.jpeg"
+      },
+      {
+        "name": "Bartek Wiater",
+        "description": "Absolwent Akademii Sztuk Teatralnych w Krakowie. Zobaczyć go można w spektaklach muzycznych w Teatrze Syrena, Teatrze Kwadrat, Gliwicach oraz już niedługo w teatrze muzycznym w Toruniu. Wszechstronnie utalentowany koncertujący wokalista.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/bartek%201-min-YLQVpx3ti2mzpGNuGTdgGlhWNXSMq1.jpeg"
+      },
+      {
+        "name": "Przemysław Łażewski",
+        "description": "Multiinstrumentalista, producent, kompozytor, aranżer – samouk. Doświadczenie zdobywał głównie w Londynie, Dublinie, Amsterdamie oraz krajach Bliskiego Wschodu. Pasjonat łączenia muzyki z obrazem.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/Zrzut%20ekranu%202024-11-14%20o%2022.27.53-9GYggR0WmzbZIdZvvnbOiHfiZKevLD.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "Czym jest impro?",
+    "mainText": "Dla nas w Toto Impro improwizacja to wyjątkowa sztuka, która pozwala widzom oderwać się od codzienności i wejść do świata absurdu, gdzie wszystko jest możliwe. Każdy spektakl powstaje na żywo, bez scenariusza, co sprawia, że każda chwila jest niepowtarzalna i autentyczna.",
+    "secondaryText": "Nasz humor jest uniwersalny i dostępny dla wszystkich, a widzowie mają realny wpływ na przebieg wydarzeń, współtworząc show razem z nami. Choć spektakl jest improwizowany, jego ślad pozostaje z widzami na długo – bo to coś więcej niż tylko rozrywka.",
+    "demoUrl": "https://pitch.com/v/copy-of-toto-impro-iub6kf"
+  },
+  "videos": {
+    "title": "Zobacz nas w akcji",
+    "description": "Zobacz najlepsze momenty z naszych występów",
+    "buttons": {
+      "more": "Zobacz więcej na YouTube"
+    }
+  },
+  "gallery": {
+    "title": "Galeria",
+    "description": "Momenty uchwycone podczas naszych występów"
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "items": [
+      {
+        "question": "Czym jest improwizacja teatralna?",
+        "answer": "Improwizacja teatralna to forma teatru na żywo, w której aktorzy tworzą przedstawienie bez scenariusza. Opiera się na spontaniczności, kreatywności i interakcji z publicznością."
+      },
+      {
+        "question": "Czy każde przedstawienie ToTo Impro jest inne?",
+        "answer": "Tak, każde nasze przedstawienie jest wyjątkowe i niepowtarzalne. Tworzymy sceny i historie na bieżąco na podstawie sugestii widowni, co sprawia, że każdy występ jest świeży i pełen niespodzianek."
+      },
+      {
+        "question": "Jak długo trwa typowe przedstawienie ToTo Impro?",
+        "answer": "Nasze przedstawienia trwają zazwyczaj około 1,5 godziny, ale czas trwania może się nieco różnić w zależności od energii widowni i rozwoju improwizowanych scen."
+      },
+      {
+        "question": "Czy mogę zamówić ToTo Impro na prywatne wydarzenie?",
+        "answer": "Oczywiście! Jesteśmy dostępni na różne prywatne i firmowe wydarzenia. Skontaktuj się z nami za pomocą formularza na naszej stronie, aby omówić szczegóły i dostępność."
+      },
+      {
+        "question": "Czy przedstawienia ToTo Impro są odpowiednie dla dzieci?",
+        "answer": "Nasze regularne przedstawienia są głównie skierowane do dorosłych widzów. Jednak na życzenie możemy przygotować specjalne występy dostosowane do młodszej publiczności. Zawsze staramy się dopasować treści do obecnych odbiorców."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "form": {
+      "namePlaceholder": "Twoje imię",
+      "emailPlaceholder": "Twój email",
+      "messagePlaceholder": "Twoja wiadomość",
+      "submitButton": "Wyślij wiadomość",
+      "emailSubject": "Nowa wiadomość z ToTo Impro!"
+    }
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone",
+    "privacy": "Polityka Prywatności",
+    "terms": "Regulamin"
+  },
+  "thankYou": {
+    "title": "Dziękujemy za wysłanie wiadomości!",
+    "message": "Odezwiemy się do Ciebie tak szybko, jak tylko będziemy mogli.",
+    "gifAlt": "Gif z podziękowaniem",
+    "backButton": "Wróć do strony głównej"
+  }
+}

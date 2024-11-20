@@ -1,0 +1,125 @@
+{
+  "server-component": {
+    "welcome": "Welcome"
+  },
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  },
+  "navigation": {
+    "home": "Home",
+    "experience": "Our Experience",
+    "team": "Meet Us",
+    "about": "What is Impro?",
+    "videos": "Watch Us",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "experience": {
+    "title": "Our Experience",
+    "stats": {
+      "shows": "Shows",
+      "stages": "Stages",
+      "cities": "Cities",
+      "countries": "Countries"
+    }
+  },
+  "hero": {
+    "title": "Welcome to ToTo Impro!",
+    "description": "Where we'll create a beautiful absurd world right before your eyes based on your suggestions! You'll be entertained by professional actor-vocalists accompanied by live music!! Charge yourself with positive energy and experience something amazing!",
+    "buttons": {
+      "tickets": "Book tickets",
+      "booking": "Booking"
+    }
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "description": "We are a group of professional actors and musicians who love improvisation and creating unique experiences.",
+    "members": [
+      {
+        "name": "Hubert Sycz",
+        "description": "Graduate of Łódź Film School. Face of major advertising campaigns in Poland - currently for Play brand. Multi-instrumentalist with musical education.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/Zrzut%20ekranu%202024-11-15%20o%2021.10.02-Y9w7qjqGHxUkJJDVKntrqqpONZXwlw.png"
+      },
+      {
+        "name": "Marcin Lipski",
+        "description": "Graduate of Łódź Film School. Has been performing as a street artist at festivals and in many cities in Poland for over a decade. Involved in improvisation for 5 years. Creator of the N.O.C. film group.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/6e55db0a-206b-4904-b6eb-b97b558d68eb-PZ00aG24hIXsuts1jN3zAc474HSwlg.jpeg"
+      },
+      {
+        "name": "Bartek Wiater",
+        "description": "Graduate of the Academy of Theatre Arts in Krakow. Can be seen in musical performances at Teatr Syrena, Teatr Kwadrat, Gliwice, and soon at the musical theatre in Toruń. Versatile talented touring vocalist.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/bartek%201-min-YLQVpx3ti2mzpGNuGTdgGlhWNXSMq1.jpeg"
+      },
+      {
+        "name": "Przemysław Łażewski",
+        "description": "Self-taught multi-instrumentalist, producer, composer, and arranger. Gained experience mainly in London, Dublin, Amsterdam, and Middle Eastern countries. Passionate about combining music with visuals.",
+        "image": "https://xlbvwgsr3nuyelsr.public.blob.vercel-storage.com/Zrzut%20ekranu%202024-11-14%20o%2022.27.53-9GYggR0WmzbZIdZvvnbOiHfiZKevLD.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "What is Impro?",
+    "mainText": "For us at Toto Impro, improvisation is a unique art form that allows viewers to break away from everyday life and enter a world of absurdity where everything is possible. Each show is created live, without a script, making every moment unique and authentic.",
+    "secondaryText": "Our humor is universal and accessible to everyone, and the audience has a real impact on the course of events, co-creating the show with us. Although the performance is improvised, its impression stays with the viewers for a long time - because it's more than just entertainment.",
+    "demoUrl": "https://pitch.com/v/copy-of-toto-impro-iub6kf"
+  },
+  "videos": {
+    "title": "Watch Us in Action",
+    "description": "Check out some highlights from our shows",
+    "buttons": {
+      "more": "See more on YouTube"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Moments captured during our shows"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is theatrical improvisation?",
+        "answer": "Theatrical improvisation is a form of live theatre where actors create a performance without a script. It's based on spontaneity, creativity, and audience interaction."
+      },
+      {
+        "question": "Is every ToTo Impro show different?",
+        "answer": "Yes, each of our shows is unique and unrepeatable. We create scenes and stories on the spot based on audience suggestions, which makes every performance fresh and full of surprises."
+      },
+      {
+        "question": "How long is a typical ToTo Impro show?",
+        "answer": "Our shows typically last about 1.5 hours, but the duration may vary slightly depending on audience energy and the development of improvised scenes."
+      },
+      {
+        "question": "Can I book ToTo Impro for a private event?",
+        "answer": "Absolutely! We are available for various private and corporate events. Contact us through the form on our website to discuss details and availability."
+      },
+      {
+        "question": "Are ToTo Impro shows suitable for children?",
+        "answer": "Our regular shows are primarily intended for adult audiences. However, upon request, we can prepare special performances adapted for younger audiences. We always strive to adjust our content to the present audience."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your email",
+      "messagePlaceholder": "Your message",
+      "submitButton": "Send message",
+      "emailSubject": "New message from ToTo Impro!"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "thankYou": {
+    "title": "Thank you for your message!",
+    "message": "We'll get back to you as soon as possible.",
+    "gifAlt": "Thank you GIF",
+    "backButton": "Back to homepage"
+  }
+}
