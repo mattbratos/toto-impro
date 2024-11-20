@@ -8,12 +8,10 @@ import { Header } from "@/app/[lang]/sections/header";
 import { Hero } from "@/app/[lang]/sections/hero";
 import { Team } from "@/app/[lang]/sections/team";
 import { Videos } from "@/app/[lang]/sections/videos";
-import { NextPage } from "next";
 import { getDictionary } from "../../get-dictionary";
 
-
-
-export default async function IndexPage({ params }: NextPage<PageProps>) {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default async function IndexPage({ params }: any) {
   const { lang } = await params;
 
   const dict = await getDictionary(lang);

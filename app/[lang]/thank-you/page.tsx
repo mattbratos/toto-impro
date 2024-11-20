@@ -1,16 +1,15 @@
 import ThankYouContent from "@/app/[lang]/thank-you/thank-you-content";
 import { getDictionary } from "@/get-dictionary";
-import { Locale } from "@/i18n-config";
+// import { Locale } from "@/i18n-config";
 
-interface ThankYouPageProps {
-  params: {
-    lang: Locale;
-  };
-}
+// interface ThankYouPageProps {
+//   params: {
+//     lang: Locale;
+//   };
+// }
 
-export default async function ThankYouPage({
-  params: { lang },
-}: ThankYouPageProps) {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default async function ThankYouPage({ params: { lang } }: any) {
   const dict = await getDictionary(lang);
 
   return <ThankYouContent dict={dict} />;

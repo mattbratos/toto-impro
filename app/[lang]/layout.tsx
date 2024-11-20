@@ -25,8 +25,7 @@ export async function generateStaticParams() {
 }
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-
-export default async function RootLayout({ children, params }: Props) {
+export default async function RootLayout({ children, params }: any) {
   const { lang } = await params;
 
   return (
