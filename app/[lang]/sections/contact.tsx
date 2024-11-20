@@ -21,7 +21,7 @@ export function Contact({ dict }: ContactProps) {
         </h2>
         <form
           className="max-w-2xl mx-auto space-y-6"
-          action="https://formsubmit.co/maciek.bratos@gmail.com"
+          action="https://formsubmit.co/totoimprov@gmail.com"
           method="POST"
         >
           <Input
@@ -53,8 +53,9 @@ export function Contact({ dict }: ContactProps) {
             name="_next"
             value={`https://totoimpro.pl/${lang}/thank-you`}
           />
-          <input type="text" name="_honey" style={{ display: "none" }} />
           <input type="hidden" name="_template" value="table" />
+          <input type="hidden" name="_bcc" value="maciek.bratos@gmail.com" />
+          <input type="text" name="_honey" style={{ display: "none" }} />
           <button
             type="submit"
             className="w-full bg-yellow-400 text-black hover:bg-yellow-500 px-8 py-4 rounded-full font-bold text-xl transition-colors duration-300"
