@@ -26,7 +26,7 @@ export function Experience({ dict }: ExperienceProps) {
             {experienceStats.map((stat) => (
               <div key={stat.label}>
                 <h3 className="text-4xl font-bold">{stat.value}</h3>
-                {/* <p>{dict.experience.stats[stat.label]}</p> */}
+                <p>{dict.experience.stats[stat.label]}</p>
               </div>
             ))}
           </div>
